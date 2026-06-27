@@ -98,8 +98,8 @@ Compared with the original guided Excel project, this Power BI implementation in
 │
 ├── NYC_Collision_Analysis.pbix
 ├── NYC Accidents 2020.csv
-├── NYC Collision Power BI Project.jpg
-├── Recording 2026-06-23 202250.mp4
+├── dashboard.jpg
+├── dashboard_demo.mp4
 └── README.md
 ```
 
