@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![NYC Traffic Collision Dashboard](NYC Collision Power BI Project.jpg)
+![NYC Traffic Collision Dashboard](dashboard.jpg)
 # NYC Traffic Collision Analysis Dashboard (Power BI)
 
 ## Project Overview
